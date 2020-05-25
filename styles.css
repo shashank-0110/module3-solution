@@ -1,0 +1,16 @@
+body{
+    overflow-x: hidden;
+    background-color: #c4c2b1;
+  }
+  section{
+    background-color: #dedac3;
+    margin: auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    border: 0px solid black;
+    padding: 18px;
+    -webkit-box-shadow: 10px 14px 14px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 14px 14px 0px rgba(0,0,0,0.75);
+    box-shadow: 10px 14px 14px 0px rgba(0,0,0,0.75);
+  }
+  
